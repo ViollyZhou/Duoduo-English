@@ -1,0 +1,7 @@
+{
+  "name": "Duoduo English",
+  "description": "A dopamine-driven, audio-first language learning experience designed to induce flow state.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
