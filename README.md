@@ -6,3 +6,6 @@ This project introduces an innovative English learning platform designed to tran
 Pedagogical Rationale The system employs a multi-sensory approach—integrating reading, listening, and speaking—to contextualize vocabulary usage. This directly addresses a critical gap for non-native speakers (EFL), who often excel in examinations but lack exposure to authentic, pragmatic English. By simulating real-world environments, the platform shifts the focus from merely recognizing words to mastering their practical application.
 
 Impact Recognizing that language learning is a continuous journey, this solution offers a sustainable path to fluency. It provides users with daily access to native-level expressions and breaking news, effectively bridging the gap between textbook knowledge and real-world communication. This approach ensures learners not only pass tests but also gain the confidence to speak and understand the world around them.
+
+
+View Demo: https://ai.studio/apps/drive/15XemB-RSRhf4HqqGeeK523dQQvTJCIic?fullscreenApplet=true
